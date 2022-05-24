@@ -1,1 +1,1 @@
-console.log("Nama Saya Herbinton Baktiar Simarmata");
+console.log(" Hallo, Perkenalkan Nama Saya Herbinton Baktiar Simarmata");

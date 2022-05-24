@@ -1,1 +1,1 @@
-console.log("Hallo, namaku adalah Ivadia Elmina Patota (152235865100-407)")
+console.log("Hallo, namaku adalah Ivadia Elmina Patola (152235865100-407)")

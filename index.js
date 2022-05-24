@@ -1,0 +1,1 @@
+console.log("Hallo, namaku adalah Ivadia Elmina Patota (152235865100-407)")

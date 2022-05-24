@@ -1,0 +1,1 @@
+console.log("Halo, namaku adalah 152235865100-733");

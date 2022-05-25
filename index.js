@@ -1,0 +1,1 @@
+console.log("Halo, perkenalkan nama saya Burhan Mafazi dengan No. Registrasi 152235865101-568. Saya sedang mengikuti pelatihan ReactJs bersama kak Monica Devi. Terima kasih.");

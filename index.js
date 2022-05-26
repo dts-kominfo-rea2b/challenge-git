@@ -1,1 +1,2 @@
-Concole.log(halo, namaku adalah Siti Pratiwi);
+Consolgite.log("halo, namaku adalah Siti Pratiwi")
+

@@ -1,0 +1,1 @@
+console.log("Halo, Namaku adalah Ni Putu Friska Trisnadewi dengan No Reg 152235865100-629")

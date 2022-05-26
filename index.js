@@ -1,1 +1,1 @@
-console.log("Halo, Namaku adalah Baginda"); //Halo, namaku adalah Baginda
+console.log("Halo, Namaku adalah Baginda"); //Halo, Namaku adalah Baginda

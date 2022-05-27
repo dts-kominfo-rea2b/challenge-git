@@ -1,0 +1,1 @@
+console.log("Haloo namaku adalah Firdha Roofi Irawan")

@@ -1,0 +1,1 @@
+console.log('Hallo, nama saya Desi Siti Maryam dengan nomor registrasi 152235865100-138')

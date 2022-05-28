@@ -1,0 +1,1 @@
+document.write("Halo, Nama Saya adalah Hendri Mei Singgih");

@@ -1,1 +1,0 @@
-console.log("Halo, namaku Adimas Rengga Bendaru")

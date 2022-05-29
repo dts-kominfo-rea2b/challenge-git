@@ -1,0 +1,1 @@
+console.log("halo, namaku adalah Rahma Maulidya - 152235865100-674");

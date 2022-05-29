@@ -1,0 +1,1 @@
+Console.log("Halo, nama aku adalah Eufracia");

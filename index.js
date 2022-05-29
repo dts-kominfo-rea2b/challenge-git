@@ -1,0 +1,1 @@
+halo, namaku adalah Afdi Fauzul Bahar

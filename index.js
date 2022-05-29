@@ -1,0 +1,1 @@
+console.log("Halo, Namaku Adalah Hadjrul Ispar");

@@ -1,1 +1,1 @@
-Halo, nama aku adalah Eufracia. 
+Console.log("Halo, nama aku adalah Eufracia");

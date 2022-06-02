@@ -1,0 +1,1 @@
+document.write('halo, namaku adalah Ariansyah');
